@@ -64,5 +64,27 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Lettermint is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://lettermint.co/
+Lettermint is a European partner providing transactional email services, offering reliable delivery of transactional, broadcast, and inbound emails. Their platform includes SDKs for multiple languages, a CLI, and an MCP server for AI assistants. Lettermint is ISO/IEC 27001:2022 certified and GDPR compliant, ensuring secure and privacy‑focused email communications for developers and businesses across Europe.
+
+**Areas:** Company · Email · Transactional · API · European
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://lettermint.co/)
+- [Documentation](https://lettermint.co/docs)
+- [Getting started](https://lettermint.co/docs/quickstart)
+- [API reference](https://lettermint.co/docs/api-reference/sending)
+- [Pricing](https://lettermint.co/pricing)
+- [Sign up](https://app.lettermint.co/register)
+- [Support](https://lettermint.co/knowledge-base)
+- [Changelog](https://lettermint.co/changelog)
+- [Blog](https://lettermint.co/blog)
+- [Terms of service](https://lettermint.co/terms-of-service)
+- [Privacy policy](https://lettermint.co/privacy-policy)
+- [Status](https://status.lettermint.co/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/lettermint/](https://apis.io/providers/lettermint/).
